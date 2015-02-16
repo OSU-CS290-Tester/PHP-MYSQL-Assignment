@@ -1,0 +1,16 @@
+Start: Fri, 13 Feb 2015 17:30:26 -0800
+End: Fri, 13 Feb 2015 23:30:26 -0800
+Tasks: During this period I basically got the basic database set up and sent some non-assignment related data.
+
+Start: Sat, 14 Feb 2015 12:30:26 -0800
+End: Sat, 14 Feb 2015 17:00:26 -0800
+Tasks: During this period I set up a form to send data to the database and displayed it in a table on the web page.
+
+Start: Sun, 15 Feb 2015 14:00:26 -0800
+End: Sat, 15 Feb 2015 18:00:26 -0800
+Tasks: Attempted to finish assignment. Got database basics working. Filtering data a major problem
+
+Start: Sun, 15 Feb 2015 19:30:00:26 -0800
+End: Sat, 15 Feb 2015 22:13:26 -0800
+Tasks: Finally determined that I will not finish this assignment and will turn in without filtering data. 
+This is yet another horrible assignment! For the sake of future students, please consider restructuring this class!
